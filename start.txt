@@ -1,1 +1,2 @@
 Test GIT quicks tart demo
+Git is the best soruce version control tool available.
